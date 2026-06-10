@@ -43,4 +43,4 @@ If the app's data handling ever changes — for example, if we add an opt-in clo
 
 ## Contact
 
-Questions about this policy: nilsalb@gmail.com
+Questions about this policy: nilssupport@gmail.com 
